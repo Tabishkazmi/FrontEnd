@@ -1,0 +1,27 @@
+#box
+{
+    background-color: blue;
+}
+
+.heading
+{
+    color: red;
+    text-align: center;
+}
+
+h2
+{
+    text-decoration:blue wavy underline;
+    font-weight:700;
+}
+
+button{
+    background-color: green;
+}
+
+a{
+    text-decoration: none;
+}
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
